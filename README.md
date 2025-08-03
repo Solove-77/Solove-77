@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Pumpfun Bundler
+- 🔭 I’m currently working on BonkFun Bundler
 - 🌱 I’m currently learning Solana Layer 2
 - 👯 I’m looking to collaborate on Some Cool Projects
-- 🤔 I’m looking for help with good exp in solana dex platform indexing and insider checking.
+- 🤔 I’m the one with good exp in solana dex platform indexing and insider checking.
 - 💬 Ask me about various solana trading bots.
 - 📫 How to reach me: 
 
